@@ -20,3 +20,8 @@ body {
   color: lightblue;
   font-family: 'Bigelow Rules';
 }
+
+/* .monsters-search-box, .title-search-box {
+  display: flex;
+  justify-content: center;
+} */

@@ -8,7 +8,7 @@ import './card.style.css';
         src ={`https://robohash.org/${id}?set=set2&size=180x180`}
         /> 
         <h2>{name}</h2>
-        <p>{email}</p>
+        <p>Email: {email}</p>
     </div>
     )
 }
