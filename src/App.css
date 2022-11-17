@@ -21,7 +21,10 @@ body {
   font-family: 'Bigelow Rules';
 }
 
-/* .monsters-search-box, .title-search-box {
-  display: flex;
-  justify-content: center;
-} */
+.monsters-search-box {
+  margin-right: 15px;
+}
+
+.title-search-box {
+  margin-left: 15px;
+}

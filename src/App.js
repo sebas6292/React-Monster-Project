@@ -45,7 +45,7 @@ const App = () => {
     onChangeHandler={onSearchChange} 
     placeholder='Search Monsters'
     /> 
-    <br />
+    
   <SearchBox 
     className='title-search-box'
     onChangeHandler={onTitleChange} 
